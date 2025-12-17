@@ -1,0 +1,68 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "no_augmentation",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    "leaf_info": {
+      "leaf_number": 157.0,
+      "source": "plant_village_classification",
+      "original_filename": "RS_HL 5486.JPG"
+    }
+  },
+  "images": [
+    {
+      "id": 4469195587,
+      "width": 256,
+      "height": 256,
+      "file_name": "image (1462).JPG",
+      "size": 15726,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success",
+      "original_filename": "RS_HL 5486.JPG",
+      "pvc_filename": "f8067138-62a9-4707-8c2f-412ef4a6aa78___RS_HL 5486.JPG"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 7377933596,
+      "image_id": 4469195587,
+      "category_id": 2000000004,
+      "segmentation": [],
+      "area": 164,
+      "bbox": [
+        90,
+        166,
+        36,
+        37
+      ]
+    },
+    {
+      "id": 3770845596,
+      "image_id": 4469195587,
+      "category_id": 2000000004,
+      "segmentation": [],
+      "area": 4770,
+      "bbox": [
+        71,
+        27,
+        110,
+        176
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 2000000004,
+      "name": "healthy",
+      "supercategory": "Blueberry"
+    }
+  ]
+}

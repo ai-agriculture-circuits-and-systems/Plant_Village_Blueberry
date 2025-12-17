@@ -1,0 +1,61 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 6974316495,
+      "width": 256,
+      "height": 256,
+      "file_name": "image (101).JPG",
+      "size": 21838,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 3760366504,
+      "image_id": 6974316495,
+      "category_id": 1000000004,
+      "segmentation": [],
+      "area": 4562,
+      "bbox": [
+        74,
+        54,
+        153,
+        177
+      ]
+    },
+    {
+      "id": 1071204504,
+      "image_id": 6974316495,
+      "category_id": 1000000004,
+      "segmentation": [],
+      "area": 308,
+      "bbox": [
+        34,
+        33,
+        20,
+        45
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 1000000004,
+      "name": "healthy",
+      "supercategory": "Blueberry"
+    }
+  ]
+}
