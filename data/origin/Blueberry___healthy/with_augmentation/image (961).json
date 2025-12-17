@@ -1,0 +1,113 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 3261677369,
+      "width": 256,
+      "height": 256,
+      "file_name": "image (961).JPG",
+      "size": 19933,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1743232375,
+      "image_id": 3261677369,
+      "category_id": 1000000004,
+      "segmentation": [],
+      "area": 137,
+      "bbox": [
+        81,
+        201,
+        18,
+        29
+      ]
+    },
+    {
+      "id": 2655251375,
+      "image_id": 3261677369,
+      "category_id": 1000000004,
+      "segmentation": [],
+      "area": 5581,
+      "bbox": [
+        105,
+        41,
+        102,
+        189
+      ]
+    },
+    {
+      "id": 2792245375,
+      "image_id": 3261677369,
+      "category_id": 1000000004,
+      "segmentation": [],
+      "area": 220,
+      "bbox": [
+        80,
+        167,
+        28,
+        27
+      ]
+    },
+    {
+      "id": 8236651375,
+      "image_id": 3261677369,
+      "category_id": 1000000004,
+      "segmentation": [],
+      "area": 592,
+      "bbox": [
+        68,
+        127,
+        54,
+        55
+      ]
+    },
+    {
+      "id": 8403269375,
+      "image_id": 3261677369,
+      "category_id": 1000000004,
+      "segmentation": [],
+      "area": 374,
+      "bbox": [
+        88,
+        99,
+        43,
+        41
+      ]
+    },
+    {
+      "id": 6507430375,
+      "image_id": 3261677369,
+      "category_id": 1000000004,
+      "segmentation": [],
+      "area": 122,
+      "bbox": [
+        111,
+        82,
+        21,
+        20
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 1000000004,
+      "name": "healthy",
+      "supercategory": "Blueberry"
+    }
+  ]
+}
